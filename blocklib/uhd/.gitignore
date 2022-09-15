@@ -1,0 +1,5 @@
+!grc/meson.build
+!lib/meson.build
+!include/meson.build
+!python/gnuradio/uhd/bindings/meson.build
+python/gnuradio/uhd/meson.build
